@@ -1,6 +1,6 @@
 # Computational Biology
 
-Codes that use python modules to solve basic computational problems in biology. These include DNA sequencing, alignment, data processing and modelling.
+Codes that use python modules to solve basic computational problems in biology. These include DNA sequencing, alignment and data processing.
 
 1. Biopython :
    - Coursework from the Python for Life Sciences course offered on udemy.
