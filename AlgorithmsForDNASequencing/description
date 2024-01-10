@@ -1,0 +1,4 @@
+Projects are taken from the Genomics Data Science Specialisation by John Hopkins University 
+The string related codes are programs that use basic string manipulation to read and align DNA sequences using FASTA and FASTQ files from the NCBI database
+The next set of codes use different data structures and algorithms to tackle the read alignment problem. 
+
